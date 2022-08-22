@@ -1,0 +1,7 @@
+C:\Users\MINEDUCYT\Desktop\C#\Trea_3\Trea_3\bin\Debug\Trea_3.exe.config
+C:\Users\MINEDUCYT\Desktop\C#\Trea_3\Trea_3\bin\Debug\Trea_3.exe
+C:\Users\MINEDUCYT\Desktop\C#\Trea_3\Trea_3\bin\Debug\Trea_3.pdb
+C:\Users\MINEDUCYT\Desktop\C#\Trea_3\Trea_3\obj\Debug\Trea_3.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\C#\Trea_3\Trea_3\obj\Debug\Trea_3.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\C#\Trea_3\Trea_3\obj\Debug\Trea_3.exe
+C:\Users\MINEDUCYT\Desktop\C#\Trea_3\Trea_3\obj\Debug\Trea_3.pdb
