@@ -1,0 +1,7 @@
+C:\Users\MINEDUCYT\Desktop\C#\Tarea_Extra\Tarea_Extra\bin\Debug\Tarea_Extra.exe.config
+C:\Users\MINEDUCYT\Desktop\C#\Tarea_Extra\Tarea_Extra\bin\Debug\Tarea_Extra.exe
+C:\Users\MINEDUCYT\Desktop\C#\Tarea_Extra\Tarea_Extra\bin\Debug\Tarea_Extra.pdb
+C:\Users\MINEDUCYT\Desktop\C#\Tarea_Extra\Tarea_Extra\obj\Debug\Tarea_Extra.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\C#\Tarea_Extra\Tarea_Extra\obj\Debug\Tarea_Extra.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\C#\Tarea_Extra\Tarea_Extra\obj\Debug\Tarea_Extra.exe
+C:\Users\MINEDUCYT\Desktop\C#\Tarea_Extra\Tarea_Extra\obj\Debug\Tarea_Extra.pdb
